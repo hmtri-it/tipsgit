@@ -71,7 +71,7 @@ $ git config --global help.autocorrect 1
 ```
 Example:
 ```bash
-$ git commit
+$ git comitm
 WARNING: You called a Git command named 'commit', which does not exist. 
 Continuing under the assumption that you meant 'commit'
 ```
